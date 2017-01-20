@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Black & White Launcher")]
+[assembly: AssemblyTitle("Black & White Setup")]
 [assembly: AssemblyDescription("A launcher to select graphical options for Black & White")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Discord Studios Ltd.")]
-[assembly: AssemblyProduct("Black & White Launcher")]
-[assembly: AssemblyCopyright("Copyright © Discord Studios Ltd 2015")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Black & White Setup")]
+[assembly: AssemblyCopyright("Copyright © Matt Stevens 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
